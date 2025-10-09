@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "build": 675,
-    "timestamp": 1758880008,
-    "environment": "production"
-  }
+  "version": "2.9.4",
+  "updated": "2025-10-09T16:54:28.253645",
+  "status": "active"
 }
